@@ -1,6 +1,4 @@
 # Sentiment-analysis
-# Scene recognition
-
 
 
 ## Set up environment
