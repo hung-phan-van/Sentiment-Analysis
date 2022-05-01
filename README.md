@@ -9,8 +9,8 @@ bash Miniconda3-latest-Linux-x86_64.sh
 ```
 Creating conda envirenment
 ```
-conda create -n scene python=3.8
-conda activate scene 
+conda create -n Sentiment python=3.8
+conda activate Sentiment 
 pip install --upgrade pip
 ```
 **Please make sure that the python version >= 3.6**
